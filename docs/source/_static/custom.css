@@ -1,0 +1,6 @@
+.icon {
+  width: 18px;                  /* tamaño del icono */
+  height: 18px;                 /* opcional, deja que el SVG escale */
+  vertical-align: text-bottom;  /* alinea con el texto */
+  margin-right: 6px;            /* espacio entre icono y texto */
+}

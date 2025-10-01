@@ -7,8 +7,8 @@
 ## Installation
 1. **Download FFMT** from the official site: <https://www.ffmt.xyz/>.
 2. **Install the app**:
-   - **Option A (double-click):** double-click the installer file (e.g., `.mlappinstall`) and click **Install**.
-   - **Option B (from MATLAB):** open **MATLAB → APPS → Install App** and select the installer file.
+   - **Option A: ** double-click the installer file (`FFMT.mlappinstall`) and click **Install**.
+   - **Option B: ** open **MATLAB → APPS → Install App** and select the installer file.
 3. **Launch FFMT**:
    - In MATLAB: **APPS → FFMT**, or  
    - Type `ffmt` in the MATLAB Command Window.

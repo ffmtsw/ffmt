@@ -1,5 +1,9 @@
-project = "FFMT Manual"
+project = "FFMT Documentation"
 author = "FFMT Team"
+author = "Cesar Daniel Castro"
+author = "Maria Kamila Diaz"
+author = "Philip Hering"
+author = "Andreas Junge"
 release = "0.0"
 
 extensions = [
@@ -12,7 +16,7 @@ templates_path = ["_templates"]
 exclude_patterns = []
 
 html_theme = "sphinx_rtd_theme"
-html_title = "FFMT Manual"
+html_title = "FFMT"
 html_static_path = ["_static"]
 
 source_suffix = [".md", ".rst"]

@@ -23,7 +23,7 @@ source_suffix = [".md", ".rst"]
 myst_enable_extensions = ["colon_fence", "deflist", "fieldlist", "tasklist"]
 
 html_theme_options = {
-    "logo_only": False,                  
+    "logo_only": True,                  
     "collapse_navigation": False,
     "navigation_depth": 4,
 }

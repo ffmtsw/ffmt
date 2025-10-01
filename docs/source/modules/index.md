@@ -5,10 +5,11 @@ Short descriptions and deep-dives for each FFMT module.
 ```markdown
 ```{toctree}
 :maxdepth: 2
-:caption: Contents
+:caption: Modules
 
-getting-started
-tutorials/quickstart-gui
-modules/index
-faq
-changelog
+mt2modem
+mtdim
+mtinv
+nemesis
+readts
+plot3d

@@ -6,11 +6,11 @@ build:
     python: "3.12"
 
 sphinx:
-  configuration: ffmt/docs/source/conf.py   # <-- OJO, con "ffmt/" al inicio
+  configuration: ffmt/docs/source/conf.py
 
 python:
   install:
-    - requirements: ffmt/docs/requirements.txt  # <-- también con "ffmt/"
+    - requirements: ffmt/docs/requirements.txt
 
 formats:
   - pdf

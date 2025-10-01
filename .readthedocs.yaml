@@ -6,11 +6,11 @@ build:
     python: "3.12"
 
 sphinx:
-  configuration: ffmt/docs/source/conf.py
+  configuration: docs/source/conf.py
 
 python:
   install:
-    - requirements: ffmt/docs/requirements.txt
+    - requirements: docs/requirements.txt
 
 formats:
   - htmlzip

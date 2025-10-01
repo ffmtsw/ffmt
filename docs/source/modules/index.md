@@ -6,6 +6,3 @@ Short descriptions and deep-dives for each FFMT module.
 :maxdepth: 1
 :caption: Modules
 :glob:
-
-intro
-*

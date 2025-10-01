@@ -15,12 +15,15 @@ exclude_patterns = []
 html_theme = "sphinx_rtd_theme"
 html_title = "FFMT"
 html_static_path = ["_static"]
+html_logo = "_static/images/general/logo_ffmt.png"
+html_favicon = "_static/images/general/logo_ffmt.png"
 html_css_files = ["custom.css"]
 
 source_suffix = [".md", ".rst"]
 myst_enable_extensions = ["colon_fence", "deflist", "fieldlist", "tasklist"]
 
 html_theme_options = {
+    "logo_only": False,                  
     "collapse_navigation": False,
     "navigation_depth": 4,
 }

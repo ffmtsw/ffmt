@@ -4,6 +4,8 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.12"
+  apt_packages:
+    - inkscape
 
 sphinx:
   configuration: docs/source/conf.py
@@ -12,8 +14,6 @@ python:
   install:
     - requirements: docs/requirements.txt
 
-# Opcional: formatos adicionales además del HTML por defecto
 formats:
   - pdf
-  - epub
   - htmlzip

@@ -3,7 +3,7 @@
 Welcome to the FFMT Documentation
 
 - **¿New here?**
-  [Installing the FFMT MATLAB App](getting-started.md)
+  [Install the FFMT MATLAB App](getting-started.md)
 
 
 ```{toctree}

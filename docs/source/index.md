@@ -16,6 +16,6 @@ Stay tuned for updates and new features. Visit [ffmt.xyz](https://www.ffmt.xyz/)
 
 getting-started
 tutorials/quickstart-gui
-modules/readts
+modules/index
 faq
 changelog

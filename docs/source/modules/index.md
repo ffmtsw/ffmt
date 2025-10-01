@@ -7,9 +7,9 @@ Short descriptions and deep-dives for each FFMT module.
 :maxdepth: 2
 :caption: Modules
 
-mt2modem
-mtdim
-mtinv
-nemesis
-readts
-plot3d
+modules/mt2modem
+modules/mtdim
+modules/mtinv
+modules/nemesis
+modules/readts
+modules/plot3d

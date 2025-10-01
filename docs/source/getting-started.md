@@ -1,14 +1,25 @@
-# Instalación y requisitos
+# Installation & Requirements
 
-## Requisitos
-- MATLAB R20xxa+ (versión recomendada).
-- Windows/macOS/Linux (compatibles con FFMT).
+## Requirements
+- **MATLAB R2023a or newer** (recommended: **R2024b**).
+- **Windows / macOS / Linux** (FFMT supports all three; **Windows is recommended**).
 
-## Instalación
-1. Descarga FFMT desde el sitio/repositorio oficial.
-2. En MATLAB, **Set Path** → añade la carpeta de FFMT.
-3. Lanza la GUI: `ffmt` (o el comando correspondiente).
+## Installation
+1. **Download FFMT** from the official site: <https://www.ffmt.xyz/>.
+2. **Install the app**:
+   - **Option A (double-click):** double-click the installer file (e.g., `.mlappinstall`) and click **Install**.
+   - **Option B (from MATLAB):** open **MATLAB → APPS → Install App** and select the installer file.
+3. **Launch FFMT**:
+   - In MATLAB: **APPS → FFMT**, or  
+   - Type `ffmt` in the MATLAB Command Window.
 
-## Verificación rápida
-- Abre la GUI y carga un ejemplo.
-- Si falla algo, revisa la [FAQ](faq.md).
+## Initial Setup (First Run)
+Some FFMT files need a safe, writable location.
+
+1. Open **FFMT**.
+2. Go to **Settings → Set → Working Directory**.
+3. Choose a folder with write permissions (e.g., `C:\FFMT\work` on Windows).
+4. Click **OK**. You’re ready to explore FFMT’s modules.
+
+```{note}
+If you work on network or external drives, ensure the chosen directory allows read/write access to avoid permission errors.

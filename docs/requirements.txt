@@ -3,3 +3,7 @@ myst-parser
 sphinx-copybutton
 sphinx-design
 sphinx-rtd-theme
+
+/* To convert svg to appear in the PDF
+sphinxcontrib-svg2pdfconverter
+cairosvg

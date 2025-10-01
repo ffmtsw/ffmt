@@ -1,7 +1,6 @@
 project = "FFMT"
 author = "Cesar Daniel Castro, Maria Kamila Diaz, Philip Hering, Andreas Junge"
 release = "0.0"
-language = "en"
 
 extensions = [
     "myst_parser",

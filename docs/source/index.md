@@ -1,12 +1,12 @@
-# FFMT Manual
+# FFMT
 
-Welcome to the FFMT Manual
+Welcome to the FFMT Documentation
 
-- **¿New?** [Installing FFMT](getting-started.md)
-- **Totorials**: [First steps](tutorials/quickstart-gui.md)
+- **¿New here?** [Installing the FFMT MATLAB App](getting-started.md)
+
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 4
 :caption: Content
 
 getting-started

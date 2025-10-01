@@ -11,6 +11,11 @@ ReadTs es un módulo especializado en leer y desplegar series de tiempo MT entre
 - Zonge
 
 ### Main GUI Components
-- Slider: Navega a cualquier tiempo dentro de la suracion rango de tu serie de tiempo
-- Previous (Push button): Desplazate hacia el chunk anterior
-- Next (Push button) :Desplazate hacia el chunk siguiente
+- <img src="../_static/icons/slider.svg" class="icon" alt="Slider icon"> **Slider**  
+  Jump to any time within the full duration of your time series.
+
+- <img src="../_static/icons/prev.svg" class="icon" alt="Previous icon"> **Previous (button)**  
+  Move to the previous chunk/time window.
+
+- <img src="../_static/icons/next.svg" class="icon" alt="Next icon"> **Next (button)**  
+  Move to the next chunk/time window.

@@ -7,6 +7,8 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_design",
 ]
+extensions.append("sphinxcontrib.svg2pdfconverter")
+svg2pdf_converter = "cairosvg"
 
 templates_path =     ["_templates"]
 exclude_patterns =   []

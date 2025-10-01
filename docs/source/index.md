@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="_static/ffmt-logo.png" alt="FFMT logo" width="220">
-</p>
-
 # FFMT
 ### Welcome the FFMT Documentation
 **Current version:** 6.0  

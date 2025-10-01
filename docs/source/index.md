@@ -1,8 +1,14 @@
-## Welcome to the FFMT Documentation
+# FFMT
+## Welcome
 **Current version:** 6.0  
-**Last release date:** 2026-01-01
+**Release date:** 2026-01-01
 
-FFMT is a MATLAB-based suite for Magnetotelluric analisis, processing, interpretation and visualization.
+FFMT is a MATLAB-based toolkit for magnetotelluric (MT) analysis, processing, interpretation, and visualization.
+
+Since its inception in 2020, FFMT has evolved through multiple iterations. In 2026, we are releasing a stable version that consolidates the modules developed since 2020, now accompanied by comprehensive documentation and step-by-step tutorials for each module.
+
+Stay tuned for updates and new features. Visit [ffmt.xyz](https://www.ffmt.xyz/) for the latest news.
+
 
 ```{toctree}
 :maxdepth: 2

@@ -6,16 +6,11 @@ build:
     python: "3.12"
 
 sphinx:
-  configuration: ffmt/docs/source/conf.py   # <-- ajusta si tu conf.py está en otro sitio
+  configuration: ffmt/docs/source/conf.py
 
 python:
   install:
-    - pip:
-        - sphinx
-        - myst-parser
-        - sphinx-copybutton
-        - sphinx-design
-        - sphinx-rtd-theme
+    - requirements: ffmt/docs/requirements.txt
 
 formats:
   - htmlzip

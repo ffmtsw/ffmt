@@ -14,7 +14,7 @@ Párrafos: separa con una **línea en blanco**.
 
 > Citas / notas breves
 
-```python
+```matlab
 # Bloque de código (triple backticks)
 print("hello")
 

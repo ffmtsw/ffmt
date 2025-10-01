@@ -19,7 +19,7 @@ Some `FFMT` files need a safe, writable location.
 1. Open **`FFMT`**.
 2. Go to **Settings → Set → Working Directory**.
 3. Choose a folder with write permissions (e.g., `path\to\Documents` on Windows).
-4. Click **OK**. You’re ready to explore `FFMT` modules.
+4. Click **OK**. You’re ready to explore the `FFMT` modules.
 
 ```{note}
 If you work on network or external drives, ensure the chosen directory allows read/write access to avoid permission errors.

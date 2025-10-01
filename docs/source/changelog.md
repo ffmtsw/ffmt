@@ -1,5 +1,4 @@
-# Cambios por versión
+# Changelog
 
-## v0.1 (2025-10-01)
-- Estructura inicial del manual en Sphinx.
-- Quickstart GUI y FAQ.
+## v6.0 (01-01-2026)
+- 

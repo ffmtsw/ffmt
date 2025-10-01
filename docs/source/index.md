@@ -1,4 +1,4 @@
-# FFMT
+## Welcome to the FFMT Documentation
 **Current version:** 6.0  
 **Last release date:** 2026-01-01
 

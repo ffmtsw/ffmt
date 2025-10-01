@@ -3,4 +3,3 @@ myst-parser
 sphinx-copybutton
 sphinx-design
 sphinx-rtd-theme
-sphinxcontrib-svg2pdfconverter

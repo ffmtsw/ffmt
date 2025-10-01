@@ -6,7 +6,6 @@ extensions = [
     "myst_parser",
     "sphinx_copybutton",
     "sphinx_design",
-    "sphinxcontrib.svg2pdfconverter",  # <- activar convertidor SVG→PDF
 ]
 
 # Usar Inkscape como backend (más estable que cairosvg en RTD)

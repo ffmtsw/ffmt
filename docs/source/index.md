@@ -1,8 +1,6 @@
 # FFMT
-
-# H1 título
-## H2
-### H3
+**Current version:** 6.0  
+**Last release date:** 2026-01-01
 
 Párrafos: separa con una **línea en blanco**.
 

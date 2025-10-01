@@ -1,9 +1,6 @@
 project = "FFMT Documentation"
 author = "FFMT Team"
-author = "Cesar Daniel Castro"
-author = "Maria Kamila Diaz"
-author = "Philip Hering"
-author = "Andreas Junge"
+author = "Cesar Daniel Castro, Maria Kamila Diaz, Philip Hering, Andreas Junge"
 release = "0.0"
 
 extensions = [

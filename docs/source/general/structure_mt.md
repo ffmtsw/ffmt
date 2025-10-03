@@ -1,4 +1,4 @@
-mt (Transfer Function container)
+Transfer Function container (mt)
 ==========================
 
 Purpose

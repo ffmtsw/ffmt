@@ -17,6 +17,11 @@ In MT2ModEM utilizamos la variable model que contiene la geometria del modelo. E
 
 ```{toctree}
 :maxdepth: 2
-:caption: Modules
+:caption: Structures
 
-structures
+mt
+task
+job
+ts
+model
+study

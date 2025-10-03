@@ -14,3 +14,9 @@ In nEMesis, there is a straightforward hierarchy: tasks > jobs > ts. Each task w
 
 #### For modeling
 In MT2ModEM utilizamos la variable model que contiene la geometria del modelo. Esta estructura consta de varias 
+
+```{toctree}
+:maxdepth: 2
+:caption: Modules
+
+structures

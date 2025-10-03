@@ -19,9 +19,9 @@ In MT2ModEM utilizamos la variable model que contiene la geometria del modelo. E
 :maxdepth: 2
 :caption: Structures
 
-mt
-task
-job
-ts
-model
-study
+structure_mt
+structure_task
+structure_job
+structure_ts
+structure_model
+structure_study
